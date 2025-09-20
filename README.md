@@ -1,5 +1,9 @@
 # read 1
 20250111
+zama!comon on
+
+
+
 # Bootstrap Next.js app with Supabase Auth
 
 ## Overview of implementing Supabase Auth SSR
