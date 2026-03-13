@@ -3,6 +3,9 @@
 zama!comon on
 
 
+agentrouter openlcaw
+
+
 
 # Bootstrap Next.js app with Supabase Auth
 
